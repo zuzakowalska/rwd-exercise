@@ -9,3 +9,11 @@ body {
     
 }
 
+header {
+    position: relative;
+}
+
+#header-text {
+    position: absolute;
+    top: 200px;
+}
